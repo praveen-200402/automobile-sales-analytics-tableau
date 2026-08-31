@@ -34,3 +34,7 @@ Created an interactive Tableau dashboard to generate business insights from auto
 ## Skills
 
 Tableau | Data Analysis | Data Visualization | Dashboard Development
+
+## Dashboard Preview
+
+![Automobile Sales Dashboard](Automobile_sales.png)
